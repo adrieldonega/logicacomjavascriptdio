@@ -13,5 +13,5 @@ git add .
 git commit -m "Mensagem do Commit"
 git branch -M main
 git remote add origin https://github.com/adrieldonega/logicacomjavascriptdio.git
-git pull origin maing
+git pull origin main
 git push -u origin main
